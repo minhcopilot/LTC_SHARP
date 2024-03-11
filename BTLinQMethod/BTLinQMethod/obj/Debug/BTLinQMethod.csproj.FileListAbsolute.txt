@@ -1,0 +1,7 @@
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\obj\Debug\BTLinQMethod.csproj.AssemblyReference.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\obj\Debug\BTLinQMethod.csproj.CoreCompileInputs.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\bin\Debug\BTLinQMethod.exe.config
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\bin\Debug\BTLinQMethod.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\bin\Debug\BTLinQMethod.pdb
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\obj\Debug\BTLinQMethod.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQMethod\BTLinQMethod\obj\Debug\BTLinQMethod.pdb

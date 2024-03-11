@@ -1,0 +1,7 @@
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\bin\Debug\BTDiemDanh1.exe.config
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\bin\Debug\BTDiemDanh1.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\bin\Debug\BTDiemDanh1.pdb
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\obj\Debug\BTDiemDanh1.csproj.AssemblyReference.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\obj\Debug\BTDiemDanh1.csproj.CoreCompileInputs.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\obj\Debug\BTDiemDanh1.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTDiemDanh1\BTDiemDanh1\obj\Debug\BTDiemDanh1.pdb
