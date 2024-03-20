@@ -1,0 +1,7 @@
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\bin\Debug\BTLinq2_PhanLeVanMinh.exe.config
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\bin\Debug\BTLinq2_PhanLeVanMinh.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\bin\Debug\BTLinq2_PhanLeVanMinh.pdb
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\obj\Debug\BTLinq2_PhanLeVanMinh.csproj.AssemblyReference.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\obj\Debug\BTLinq2_PhanLeVanMinh.csproj.CoreCompileInputs.cache
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\obj\Debug\BTLinq2_PhanLeVanMinh.exe
+D:\DaiHoc\HK223_2023_2024\LTCshare\BTLinQ_2\BTLinq2_PhanLeVanMinh\BTLinq2_PhanLeVanMinh\obj\Debug\BTLinq2_PhanLeVanMinh.pdb
