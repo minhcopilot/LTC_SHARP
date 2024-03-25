@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|d:\\daihoc\\hk223_2023_2024\\ltcshare\\giuaky_stt39_phanlevanminh_333\\giuaky_stt39_phanlevanminh_333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\giuaky_stt39_phanlevanminh_333\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\giuaky_stt39_phanlevanminh_333\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\giuaky_stt39_phanlevanminh_333\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\giuaky_stt39_phanlevanminh_333\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\giuaky_stt39_phanlevanminh_333\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74643AF3-DDD4-4AB8-B5DC-D5020BFC319F}|GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333.csproj|solutionrelative:giuaky_stt39_phanlevanminh_333\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Newspaper.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Newspaper.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Newspaper.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Newspaper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:53:05.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Magazine.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Magazine.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Magazine.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Magazine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:52:26.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Document.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Document.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Document.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Document.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:48:33.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Program.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Program.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:19:42.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Book.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Book.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Book.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:52:10.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Category.cs",
+              "RelativeDocumentMoniker": "GiuaKy_stt39_PhanLeVanMinh_333\\Category.cs",
+              "ToolTip": "D:\\DaiHoc\\HK223_2023_2024\\LTCshare\\GiuaKy_stt39_PhanLeVanMinh_333\\GiuaKy_stt39_PhanLeVanMinh_333\\Category.cs",
+              "RelativeToolTip": "GiuaKy_stt39_PhanLeVanMinh_333\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T02:46:00.596Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
